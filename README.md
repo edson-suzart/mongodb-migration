@@ -1,4 +1,4 @@
-**O projeto consiste na configuração de execução para migrations para o mongodb.**
+**O projeto consiste na configuração de execução de migrations para o mongodb.**
 
 ## Tecnologias e conceitos utilizados:
 
